@@ -1,0 +1,36 @@
+body {
+    font-family:"Times New Roman", Georgia, Serif;
+    background-color: #e0ebeb ;
+}
+
+
+#wrapper {
+    background-color: ;
+    color: ;
+    width: 80%;
+    padding-top:-5px;
+    padding-bottom:50px;
+    margin: 0 auto;
+
+
+}
+
+
+#content {
+    background-color: White;
+    padding:1px 1px;
+    overflow:auto;
+
+
+}
+
+
+p.one {
+    border-style: solid;
+    border-width: 2px;
+    border-color:  #004d99;
+
+}
+
+
+
